@@ -35,7 +35,7 @@ python main.py
 
 ## 📸 Preview
 
-![Mi app](asstes/Screenshot_MyApp.png)
+![Mi app](assets/Screenshot_MyApp.png)
 
 ## 📌 Future Improvements
 
