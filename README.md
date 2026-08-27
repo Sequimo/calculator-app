@@ -34,12 +34,6 @@ python main.py
 
 ![Mi app](assets/Screenshot_MyApp.png)
 
-## 📌 Future Improvements
-
-* History panel
-* Scientific mode
-* Remove eval (custom parser)
-
 ## 👨‍💻 Author
 
 Sebastián Quiros
