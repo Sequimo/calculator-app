@@ -2,9 +2,6 @@
 
 A modern calculator built with **PyQt6**, designed with clean architecture and modular structure.
 
-## 🚧 Status
-This project is currently under active development.
-
 ## 🚀 Features
 
 * Keyboard support
